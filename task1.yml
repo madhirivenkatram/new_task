@@ -1,9 +1,9 @@
 ---
-- name: playbook
+- name: playbook for testing the code
   hosts: localhost
   gather_facts: yes
   vars:
-   new: "Hello Workld"
+   new: "Hello World"
   tasks:
    - name: Task1
      debug:
