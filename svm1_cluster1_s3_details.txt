@@ -1,0 +1,17 @@
+Storage VM:
+svm1_cluster1
+
+S3 Server Name:
+s3_cluster1
+
+Network IP Interfaces:
+192.168.0.151
+
+User Name:
+sm_s3_user
+
+Access Key:
+LJ1BJ31OYQYDSJ0JVXM2
+
+Secret Key:
+b9bdx0O1E0Lcf6I7E3TdWsR1664_sXrD6BH5YBvt
